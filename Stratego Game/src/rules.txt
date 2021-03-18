@@ -1,0 +1,17 @@
+Hello and welcome to Stratego!
+
+-The objective of this game is to capture the opponents flag or leave them without units for them to be able to move! 
+
+-The game starts with each player setting up all their tiles in the 10x4 tiles on each side of the river/lakes. Players may not place their units anywhere except their region.
+
+-No unit may enter the water tiles and will be sent back to their previous position as a result.
+
+-Red starts first and each player may only move 1 unit per turn. Units can only move to adjacent tiles and only 1 tile per turn, with the exception of scouts (9) that can travel as many tiles as they want. 
+
+-Bombs and flags cannot move. When units fight the unit with a higher rank wins, with 1 as the highest rank. In the case of a tie, both units die. 
+
+-Marshalls (1) can be killed by spies (S) if attacked, but can kill spies if they attack instead. 
+
+-Bombs can only be defused by miners (8) and will kill all other units. 
+
+Good luck and have fun!
