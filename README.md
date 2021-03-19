@@ -1,2 +1,2 @@
-# C-Stratego
+# Cpp-Stratego
 Stratego made in C++
